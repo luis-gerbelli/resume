@@ -1,0 +1,27 @@
+@media only screen and (max-width: 992px) {
+  :root { --mrg-menu: 27.5%; }
+  main .breadcrumb h1 { font-size: 0.9rem; }
+  main article .description { columns: 1; }
+}
+
+@media only screen and (max-width: 768px) {
+  :root { --mrg-menu: 32.5%; }
+  header #search:not(:focus) { width: 2rem; border: none; padding: 0; color: transparent; cursor: pointer; transition: width 500ms; }
+  header #search:not(:focus)::placeholder { color: transparent; }
+  header #search:not(:focus):-ms-input-placeholder { color: transparent; }
+  header #search:not(:focus)::-ms-input-placeholder { color: transparent; }
+  main .breadcrumb h1 { font-size: 0.75rem; }
+  main section .intro .option-button { display: block; }
+  main section .intro .option-button div { float: unset; width: 60%; margin: 0.5rem auto; }
+} 
+
+@media only screen and (max-width: 600px) {
+  header .title span.title-left { display: inline-block; }
+  header .title span.title-right { margin-left: 0.5rem; }
+  header .title { font-size: 1rem; }
+  header .icon, header #search { margin-right: 0.5rem; }
+  header .icon img { width: 1.5rem; }
+  header .icon a { margin-right: 0.5rem; }
+  nav { width: 18rem; height: auto; margin-left: 0; box-shadow: 0.0625rem 0.125rem 0.3125rem var(--clr-fst);}
+  main { margin-left: 0; }
+}

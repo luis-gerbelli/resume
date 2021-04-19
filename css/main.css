@@ -1,0 +1,194 @@
+main {
+    margin-top: var(--mrg-head);
+    margin-left: var(--mrg-menu);
+}
+
+main .breadcrumb {
+    position: -webkit-sticky;
+    position: sticky;
+    top: var(--mrg-head);
+    z-index: 1;       
+    background-color: var(--clr-bcgd);
+    margin: 0 2.5%;
+    padding-top: 0.3125rem;
+}
+
+main .breadcrumb h1 {
+    width: 100%;
+    padding: 0.75rem;
+    color: var(--clr-fst);
+    font-size: 1rem;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+
+main .breadcrumb span {
+    cursor: pointer;
+}
+
+main > section:not(.active-section) {
+    display: none;
+}
+
+main section {
+    color: var(--clr-wrd);
+    font-size: 1rem;
+}
+
+main section .intro {
+    padding: 1rem 5%;
+    text-align: justify;
+    line-height: 150%;
+}
+
+main section .intro p {
+    padding: 0.315rem 0;
+}
+
+main section .intro i {
+    font-size: 0.75rem;
+}
+
+main section .intro ul {
+    margin-left: 3.125rem;
+}
+
+main section .intro li {
+    padding: 0.315rem 0;
+}
+
+main section .intro .option-button {
+    display: flex;
+    justify-content: center;
+}
+
+main section .intro .option-button div {
+    float: left;
+    background-color: var(--clr-snd);
+    width: 20%;
+    margin: 1rem 0.3125rem;
+    padding: 0.625rem;
+    border-radius: 0.3125rem;    
+    color: var(--clr-bcgd);
+    font-size: 0.75rem;
+    text-align: center;
+    overflow: hidden;    
+    text-overflow: ellipsis;
+    cursor: pointer;
+    transition: opacity 500ms, box-shadow 500ms;    
+}
+
+main section .intro .option-button div:hover {
+    box-shadow: 0.0625rem 0.125rem 0.3125rem var(--clr-fst);
+    opacity: 0.7;
+}
+
+main section .intro hr {
+    margin: 4%;
+}
+
+main section .intro a {
+    color: var(--clr-wrd);
+    text-decoration: none;
+}
+
+main section .intro figure {
+    width: 90%;
+    margin: 1rem auto;
+    padding: 0.625rem;
+    border-radius: 0.3125rem;
+    box-shadow: 0.0625rem 0.125rem 0.3125rem var(--clr-fst);
+}
+  
+main section .intro figure figcaption {
+    padding: 0.125rem 0.5rem 0.5rem;
+}
+
+main section .intro figure img {
+    width: 100%;
+}
+
+main article {
+    margin: 0 10% 1.5rem;
+    border: 0.0625rem solid var(--clr-snd);
+    border-radius: 0.3125rem;
+}
+
+main article h2 {
+    background-color: var(--clr-bcgd);
+    width: 100%;
+    border: 0.0625rem solid var(--clr-snd);
+    border-radius: 0.3125rem;
+    box-shadow: 0.0625rem 0.125rem 0.3125rem var(--clr-snd);
+    color: var(--clr-snd);
+    font-size: 1rem;
+}
+
+main article .project {
+    padding: 1rem;
+    padding-bottom: 0.25rem;
+}
+
+main article .period {
+    padding: 0.5rem;
+    padding-top: 0.25rem;
+    font-size: 0.75rem;
+    text-align: end;
+}
+
+main article .description {
+    columns: 2;
+    column-gap: 5%;    
+    padding: 1rem 5% 0;
+    text-align: justify;
+    line-height: 150%;
+}
+
+main article .description p {
+    padding: 0.315rem 0;
+    text-indent: 5%;    
+}
+
+main article .description ul {
+    margin-left: 10%;
+}
+
+main article .description li {
+    padding: 0.315rem 0;
+}
+
+main article > hr {
+    margin: 1rem auto;
+    width: 90%;
+}
+
+main article .client {
+    padding: 0 5% 1rem;    
+}
+
+main article .role {
+    padding: 0 5% 1rem;    
+}
+
+main article .keyword {
+    display: flex;
+    padding: 0 5% 0.5rem;  
+}
+
+main article .keyword-left {
+    padding-right: 2.5%;
+}
+
+main article .keyword-right span {
+    display: inline-block;
+    margin-bottom: 0.5rem;
+    margin-right: 0.25rem;
+}
+
+main article .keyword-right code {
+    background-color: #dadada;
+    border-radius: 0.3125rem;
+    padding: 0.125rem 0.3125rem;
+}
+

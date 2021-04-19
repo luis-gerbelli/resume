@@ -1,0 +1,87 @@
+
+nav {    
+    position: fixed;
+    z-index: 2;
+    float: left;
+    overflow: auto;
+    background-color: var(--clr-bcgd);
+    width: var(--mrg-menu);
+    margin-left: 0.3125rem;
+    max-height: calc(100vh - var(--mrg-head));
+}
+
+nav.hidden, nav div.hidden {
+    display: none;
+}
+
+nav div:not(.group) {
+    margin: 0.3125rem;
+    border-width: 0.0625rem;
+    border-style: solid;
+    border-radius: 0.3125rem;
+    color: var(--clr-bcgd);
+    font-size: 0.75rem;  
+    overflow: hidden;
+    cursor: pointer;
+    transition: opacity 750ms, box-shadow 500ms;
+}
+
+nav div:not(.group):hover {
+    box-shadow: 0.0625rem 0.125rem 0.3125rem var(--clr-fst);
+    opacity: 0.7;
+}
+
+nav div.first-level {
+    background-color: var(--clr-fst);
+}
+
+nav div.second-level {
+    background-color: var(--clr-snd);
+    margin-left: 0.75rem;
+}
+
+nav div.third-level {
+    background-color: var(--clr-trd);
+    margin-left: 1.1875rem;
+}
+
+nav div.active {
+    background-color: var(--clr-bcgd);
+    box-shadow: 0.0625rem 0.125rem 0.3125rem var(--clr-fst);
+}
+
+nav div.first-level.active {
+    color: var(--clr-fst);
+}
+
+nav div.second-level.active {
+    color: var(--clr-snd);
+}
+
+nav div.third-level.active {
+    color: var(--clr-trd);
+}
+
+nav span {
+    float: left;
+    padding: 0.625rem;
+}
+
+nav span.group-unique {
+    width: 100%;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+
+nav span.group-left {
+    width: calc(100% - 1.875rem);
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+
+nav span.group-right {
+    float: right;
+    width: 1.875rem;
+}
