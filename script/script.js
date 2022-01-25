@@ -112,7 +112,7 @@ function createBreadcrumb(tag) {
 /* Set article HTML */
 function setArticleHTML(result = "", article) {
     if (article.project) {
-        const monthName = ["jan", "feb", "mar", "apr", "may", "jun", "jul", "aug", "sep", "oct", "nov", "dec"]
+        const monthName = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"]
         let dtStart = article.start.split("-")
         dtStart = monthName[Number(dtStart[1]) - 1] + "/" + dtStart[0]
         let dtEnd = article.end.split("-")

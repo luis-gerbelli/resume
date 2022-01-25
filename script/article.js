@@ -1,7 +1,7 @@
 const articles = [
     {
         id: "we",
-        info: "<p>Besides I have worked at Banco Itaú and Hamburg-Süd for a couple of months before I joined IBM, my whole professional career can be summarized as I have just worked at a single company.</p><p>I joined IBM in 2005 and I have acted as consultant in several projects since then.</p><p>During this time, I have taken part of more than 40 different projects, each one with different proposes and challenges. And these projects were provided for multiple clients.</p><p>I think it is fantastic, because I had the opportunity of knowing different people, diversified business cultures, and multiple ways of working.</p><p>Thus, even though I have officially been worked at a single company, I can perhaps say that I have worked on more than 25 companies in practice.</p><p>Naturally, for more than 15 years, the challenges were changing, my knowledge was improving, and my roles on each project were changing as well.</p><p>Somehow, my career followed the market trend.</p><p>I started working in a time when companies desired a better way to have visibility of their own data through business intelligence (BI) and I have recently worked in a scenario when companies want their technologies have cognitive ability, with artificial intelligence (AI), to deal with the challenges they have been faced.</p><p>The different roles I have acted on these projects can be synthetized in five categories:</p><ul><li>I started as a <b>business analyst</b>, understanding the business requirements and specifying them into technical requirements;</li><li>Then I worked on <b>financial planning</b> projects, for a while, through the implementation of systems which help companies to elaborate their budget plans, consolidating planned information provided by their multiple departments;</li><li>Next, I took part of projects of <b>IT strategy</b>, which it was mapped the current IT state of a company, designed the future desired scenario, and proposed a roadmap to make this transformation;</li><li>More recently, I worked on AI projects, as <b>data scientist</b>, which the objectives were to leverage data-driven insights for companies, making use of machine learning techniques;</li><li>And, permeating all my professional journey, I have worked on <b>management roles</b>, either as project manager, as technical subject-matter expert, or as cognitive and analytics practice leader for IBM Brazil.</li></ul><p>In the middle of 2021, I left IBM Brazil, once I moved with my family to Canada, where we are having the opportunity of experiencing new personal and professional challenges.</p><p>The chart below illustrates when I had the opportunity of working on these different categories. Click on the following image for additional details.</p><a href='./timeline.html' target='_blank'><figure><figcaption><b><i>Figure – My work experiences timeline</i></b></figcaption><img src='./img/timeline.png' alt='Timeline'></figure></a><p>Click on the buttons below to see a little more about each of these work experiences I had.</p><div class='option-button'><div data-id='we-ds'>Data scientist</div><div data-id='we-mr'>Management role</div><div data-id='we-ic'>IT consultant</div><div data-id='we-fc'>Financial consultant</div><div data-id='we-ba'>Business analyst</div></div><p><i>Note: The categories are disposed in reverse chronological order.</i></p>"
+        info: "<p>Besides I have worked at Banco Itaú and Hamburg-Süd for a couple of months before I joined IBM, my whole professional career can be summarized as I have just worked at a single company.</p><p>I joined IBM in 2005 and I have acted as consultant in several projects since then.</p><p>During this time, I have taken part of more than 40 different projects, each one with different proposes and challenges. And these projects were provided for multiple clients.</p><p>I think it is fantastic, because I had the opportunity of knowing different people, diversified business cultures, and multiple ways of working.</p><p>Thus, even though I have officially been worked at a single company, I can perhaps say that I have worked on more than 25 companies in practice.</p><p>Naturally, for more than 15 years, the challenges were changing, my knowledge was improving, and my roles on each project were changing as well.</p><p>Somehow, my career followed the market trend.</p><p>I started working in a time when companies desired a better way to have visibility of their own data through business intelligence (BI) and I have recently worked in a scenario when companies want their technologies have cognitive ability, with artificial intelligence (AI), to deal with the challenges they have been faced.</p><p>The different roles I have acted on these projects can be synthetized in five categories:</p><ul><li>I started as a <b>business analyst</b>, understanding the business requirements and specifying them into technical requirements;</li><li>Then I worked on <b>business intelligence</b> projects, for a while, through the implementation of systems which help companies to elaborate their budget plans, consolidating planned information provided by their multiple departments;</li><li>Next, I took part of projects of <b>IT strategy</b>, which it was mapped the current IT state of a company, designed the future desired scenario, and proposed a roadmap to make this transformation;</li><li>More recently, I worked on AI projects, as <b>data scientist</b>, which the objectives were to leverage data-driven insights for companies, making use of machine learning techniques;</li><li>And, permeating all my professional journey, I have worked on <b>leadership roles</b>, either as project manager, as technical subject-matter expert, or as cognitive and analytics practice leader for IBM Brazil.</li></ul><p>In the middle of 2021, I left IBM Brazil, once I moved with my family to Canada, where we are having the opportunity of experiencing new personal and professional challenges.</p><p>The chart below illustrates when I had the opportunity of working on these different categories. Click on the following image for additional details.</p><a href='./timeline.html' target='_blank'><figure><figcaption><b><i>Figure – My work experiences timeline</i></b></figcaption><img src='./img/timeline.png' alt='Timeline'></figure></a><p>Click on the buttons below to see a little more about each of these work experiences I had.</p><div class='option-button'><div data-id='we-ds'>Data scientist</div><div data-id='we-mr'>Leadership role</div><div data-id='we-ic'>IT consultant</div><div data-id='we-fc'>BI consultant</div><div data-id='we-ba'>Business analyst</div></div><p><i>Note: The categories are disposed in reverse chronological order.</i></p>"
     },
     {
         id: "we-ds",
@@ -147,7 +147,7 @@ const articles = [
     },
     {
         id: "we-mr",
-        info: "<p>I have had opportunities of performing management roles during my career journey.</p><p>Here, I am not meaning about team leadership, but rather I am mentioning management of a whole initiative, as project for instance. (I consider that team leadership is one of responsibilities or activities inherently expected for a data scientist, consultant, or analyst job – mainly if it is needed seniority for that. That is why team leadership is not embraced in this section, but it is a role performed inside other sections.)</p><p>There have been three groups of management roles I had worked on:</p><ul><li>Project manager: responsible for the success of the whole project;</li><li>SME: on demand technical advisor for projects or sales proposals;</li><li>Practice leader: responsible for the success of the practice at IBM.</li></ul><p>In some case, these management roles were cumulated with other technical responsibilities. In others, I performed it exclusively.</p><p>Click on the buttons below to see a little more about each of these work experiences I had.</p><div class='option-button'><div data-id='we-mr-pl'>Practice leader</div><div data-id='we-mr-sm'>SME</div><div data-id='we-mr-pm'>Project manager</div></div><p><i>Note: The groups are disposed in reverse chronological order.</i></p>"
+        info: "<p>I have had opportunities of performing leadership roles during my career journey.</p><p>Here, I am not meaning about team management, but rather I am mentioning leadership of a whole initiative, as project for instance. (I consider that team management is one of responsibilities or activities inherently expected for a data scientist, consultant, or analyst job – mainly if it is needed seniority for that. That is why team management is not embraced in this section, but it is a role performed inside other sections.)</p><p>There have been three groups of leadership roles I had worked on:</p><ul><li>Project manager: responsible for the success of the whole project;</li><li>SME: on demand technical advisor for projects or sales proposals;</li><li>Practice leader: responsible for the success of the practice at IBM.</li></ul><p>In some case, these leadership roles were cumulated with other technical responsibilities. In others, I performed it exclusively.</p><p>Click on the buttons below to see a little more about each of these work experiences I had.</p><div class='option-button'><div data-id='we-mr-pl'>Practice leader</div><div data-id='we-mr-sm'>SME</div><div data-id='we-mr-pm'>Project manager</div></div><p><i>Note: The groups are disposed in reverse chronological order.</i></p>"
     },
     {
         id: "we-mr-pl",
@@ -282,7 +282,7 @@ const articles = [
         end: "2016-12-01",
         description: "<p>The client was working on the strategy of getting in the online market, through a digital banking.</p><p>In addition to define the marketing and brand strategy, the operational model to be adopted, and transition plan to be followed, it was also important to know whether this strategy was financially sustainable.</p><p>So, I was invited to join the project to elaborate a business case to prove whether the creation of the digital bank would be beneficial and profitable for the company, considering the potential of growth, the valuation of the brand, the decreasing of churn, the additional expenses, the required the investments, and adverse impacts (as cannibalization) on the physical bank.</p>",
         client: "Banking company (Banco Sicredi)",
-        role: "Financial consultant",
+        role: "Business intelligence consultant",
         keyword: ["IT strategy", "Banking", "Financial viability"]
     },
     {
@@ -307,11 +307,11 @@ const articles = [
     },
     {
         id: "we-fc",
-        info: "<p>For ten years, I have worked as consultant for financial planning. My role has been working on structuring, automating, and improving both budget planning and accounting consolidation processes for companies, with the use of IT solution specialized for these purposes.</p><p>The objective was, after understanding the business requirements, configuring the IT financial planning solutions (as known as enterprise performance management solutions), making it possible to have a decentralized and collaborative contribution of planning information provided by multiple areas of the company, a further consolidation of it, and a subsequently generation of financial and accounting reports.</p><p>I had the opportunity of working with two widely known IT solutions of financial planning: SAP BPC and IBM Planning Analytics (former IBM Cognos TM1).</p><p>The activities I performed on these projects were:</p><ul><li>Understanding of the business requirements for budget planning and accounting consolidation processes;</li><li>Design of the configurations of the financial planning solutions to address these requirements;</li><li>Technical developing of the financial planning solutions, through the use of either SAP BPC or IBM Planning Analytics;</li><li>Supporting clients on the use of these financial planning solutions.</li></ul><p>In order to better organize the projects, they are separated between those which were developed through the use of IBM Planning Analytics from those which were developed through the use of SAP BPC.</p><div class='option-button'><div data-id='we-fc-pa'>IBM Planning Analytics</div><div data-id='we-fc-sa'>SAP BPC</div></div><p><i>Note: The groups are disposed in reverse chronological order.</i></p>"
+        info: "<p>For ten years, I have worked as consultant for business intelligence. My role has been working on structuring, automating, and improving both budget planning and accounting consolidation processes for companies, with the use of IT solution specialized for these purposes.</p><p>The objective was, after understanding the business requirements, configuring the business intelligence solutions (as known as enterprise performance management solutions), making it possible to have a decentralized and collaborative contribution of planning information provided by multiple areas of the company, a further consolidation of it, and a subsequently generation of financial and accounting reports.</p><p>I had the opportunity of working with two widely known IT solutions of business intelligence: SAP BPC and IBM Planning Analytics (former IBM Cognos TM1).</p><p>The activities I performed on these projects were:</p><ul><li>Understanding of the business requirements for budget planning and accounting consolidation processes;</li><li>Design of the configurations of the business intelligence solutions to address these requirements;</li><li>Technical developing of the business intelligence solutions, through the use of either SAP BPC or IBM Planning Analytics;</li><li>Supporting clients on the use of these business intelligence solutions.</li></ul><p>In order to better organize the projects, they are separated between those which were developed through the use of IBM Planning Analytics from those which were developed through the use of SAP BPC.</p><div class='option-button'><div data-id='we-fc-pa'>IBM Planning Analytics</div><div data-id='we-fc-sa'>SAP BPC</div></div><p><i>Note: The groups are disposed in reverse chronological order.</i></p>"
     },
     {
         id: "we-fc-pa",
-        info: "<p>The following are the projects I took part of, which were used IBM Planning Analytics as financial planning solution.</p><p>At the time of these projects, IBM Planning Analytics was known as IBM Cognos TM1.</p><p><i>Note: The projects are listed in reverse chronological order. That is, more recent projects are above older projects.</i></p>"
+        info: "<p>The following are the projects I took part of, which were used IBM Planning Analytics as business intelligence solution.</p><p>At the time of these projects, IBM Planning Analytics was known as IBM Cognos TM1.</p><p><i>Note: The projects are listed in reverse chronological order. That is, more recent projects are above older projects.</i></p>"
     },
     {
         id: "we-fc-pa",
@@ -321,7 +321,7 @@ const articles = [
         description: "<p>When the organogram of a company is matricially structured, it is harder to assure that goals and budgets are well and fairly distributed across the company.</p><p>Not always it is easy to conciliate a geographical consolidation of budget planning with a product-oriented consolidation of budget planning. Mainly when the planning process is not centralized and each department has distinct and unconnected goals to pursue.</p><p>Thus, it was built a system for conciliating that multi-dimensional budget planning, making use of IBM Cognos TM1 (the previous version of IBM Planning Analytics).</p><p>Thereby, it was possible to see the budget planning under different perspectives and make adjustments to attend both geographical and product-oriented goals.</p>",
         client: "Banking company (Banco Santander)",
         role: "IBM Planning Analytics (TM1) consultant leader",
-        keyword: ["Financial planning", "Banking", "Accounting consolidation", "IBM Cognos Analytics", "IBM Cognos TM1"]
+        keyword: ["Business intelligence", "Banking", "Accounting consolidation", "IBM Cognos Analytics", "IBM Cognos TM1"]
     },
     {
         id: "we-fc-pa",
@@ -331,7 +331,7 @@ const articles = [
         description: "<p>HR expenses are the most relevant expenses for banking companies. Having an accurate planning of HR expense is a must-have need of each department. And simulating the impact of employees movements (hiring, demission, promotion, or transfer) is a powerful tool for each managers to better control their expenses.</p><p>Thus, it was built a HR expenses simulator through the use of IBM Cognos TM1 (the previous version of IBM Planning Analytics), where managers were able to notice the increment – or decrement – of an eventual hiring, demission, promotion, or transfer on their department expenses.</p>",
         client: "Banking company (Banco Santander)",
         role: "IBM Planning Analytics (TM1) consultant leader",
-        keyword: ["Financial planning", "Banking", "Budget planning", "IBM Cognos Analytics", "IBM Cognos TM1"]
+        keyword: ["Business intelligence", "Banking", "Budget planning", "IBM Cognos Analytics", "IBM Cognos TM1"]
     },
     {
         id: "we-fc-pa",
@@ -341,7 +341,7 @@ const articles = [
         description: "<p>In this project, it was implemented the HR budget planning in IBM Cognos TM1 (the previous version of IBM Planning Analytics).</p><p>The objective of this project was to enable a decentralized and collaborative planning of HR expenses, with a centralized visualization of the trends and behaviors of each type of expenses.</p>",
         client: "Banking company (Banco Santander)",
         role: "IBM Planning Analytics (TM1) consultant",
-        keyword: ["Financial planning", "Banking", "Budget planning", "IBM Cognos TM1"]
+        keyword: ["Business intelligence", "Banking", "Budget planning", "IBM Cognos TM1"]
     },
     {
         id: "we-fc-pa",
@@ -351,7 +351,7 @@ const articles = [
         description: "<p>The variable compensation, in this banking company, was calculated through complex and detailed rules. The employees were compensated not only by goals they achieve or exceed, but also by how well they have performed in comparison with their peers.</p><p>Naturally, each department in the company has its own goals and, consequently, the employees should be rated (and paid) according to different goals and performances.</p><p>To calculate these complex and heterogeneous rules and to find out the variable compensation of each employee, it was built a variable compensation system through the use of IBM Cognos TM1 (the previous version of IBM Planning Analytics).</p>",
         client: "Banking company (Banco Santander)",
         role: "IBM Planning Analytics (TM1) consultant leader",
-        keyword: ["Financial planning", "Banking", "Budget planning", "IBM Cognos TM1"]
+        keyword: ["Business intelligence", "Banking", "Budget planning", "IBM Cognos TM1"]
     },
     {
         id: "we-fc-pa",
@@ -361,11 +361,11 @@ const articles = [
         description: "<p>In this project, it was implemented the organizational budget planning in IBM Cognos TM1 (the previous version of IBM Planning Analytics). The following planning processes were implemented:</p><ul><li>Revenues;</li><li>Cost of goods sold and cost of services sold;</li><li>Stock;</li><li>Indirect expenses (human resources, logistic, and marketing);</li><li>Investments.</li></ul>",
         client: "Retail company (FastShop)",
         role: "IBM Planning Analytics (TM1) consultant",
-        keyword: ["Financial planning", "Retail", "Budget planning", "IBM Cognos TM1"]
+        keyword: ["Business intelligence", "Retail", "Budget planning", "IBM Cognos TM1"]
     },
     {
         id: "we-fc-sa",
-        info: "<p>The following are the projects I took part of, which were used SAP BPC as financial planning solution.</p><p>Before 2009, SAP BPC was known as SAP BPS.</p><p><i>Note: The projects are listed in reverse chronological order. That is, more recent projects are above older projects.</i></p>"
+        info: "<p>The following are the projects I took part of, which were used SAP BPC as business intelligence solution.</p><p>Before 2009, SAP BPC was known as SAP BPS.</p><p><i>Note: The projects are listed in reverse chronological order. That is, more recent projects are above older projects.</i></p>"
     },
     {
         id: "we-fc-sa",
@@ -375,7 +375,7 @@ const articles = [
         description: "<p>In this project, it was implemented the organizational budget planning in SAP BPC. The following planning processes were implemented:</p><ul><li>Macroeconomic assumptions;</li><li>Revenues;</li><li>Operational production costs;</li><li>Indirect expenses (travel, HR, training, suppliers, insurances, and others);</li><li>Apportionment of costs and expenses.</li></ul><p>In this project, it was also implemented the planning accounting consolidation in SAP BPC. The following statements were implemented:</p><ul><li>Balance sheet;</li><li>Profit and loss statement;</li><li>Cash flow statement.</li></ul>",
         client: "Oil, coal, mining, logistic, and offshore company (EBX)",
         role: "SAP BPC consultant leader",
-        keyword: ["Financial planning", "Energy", "Mining", "Accounting consolidation", "Budget planning", "SAP BPC", "SAP BW"]
+        keyword: ["Business intelligence", "Energy", "Mining", "Accounting consolidation", "Budget planning", "SAP BPC", "SAP BW"]
     },
     {
         id: "we-fc-sa",
@@ -385,7 +385,7 @@ const articles = [
         description: "<p>In this project, it was implemented the organizational budget planning in SAP BPC. The following planning processes were implemented:</p><ul><li>Revenues;</li><li>Operational production costs;</li><li>Indirect expenses (RH, suppliers, and others);</li><li>Apportionment of costs and expenses;</li><li>Investments and depreciation.</li></ul><p>In this project, it was also implemented the planning accounting consolidation in SAP BPC. The following statements were implemented:</p><ul><li>Balance sheet;</li><li>Profit and loss statement;</li><li>Cash flow statement.</li></ul>",
         client: "Steelmaking company (Usiminas)",
         role: "SAP BPC consultant leader",
-        keyword: ["Financial planning", "Steelmaking", "Accounting consolidation", "Budget planning", "SAP BPC", "SAP BW"]
+        keyword: ["Business intelligence", "Steelmaking", "Accounting consolidation", "Budget planning", "SAP BPC", "SAP BW"]
     },
     {
         id: "we-fc-sa",
@@ -395,7 +395,7 @@ const articles = [
         description: "<p>In this project, it was implemented the planning accounting consolidation for each new real estate development in SAP BPC. The following statements were implemented:</p><ul><li>Cash flow statement according to BRGAAP financial reporting standards;</li><li>Cash flow statement according to international financial reporting standards (IFRS).</li></ul>",
         client: "Real estate company (Brookfield)",
         role: "SAP BPC consultant",
-        keyword: ["Financial planning", "Real estate", "Accounting consolidation", "SAP BPC"]
+        keyword: ["Business intelligence", "Real estate", "Accounting consolidation", "SAP BPC"]
     },
     {
         id: "we-fc-sa",
@@ -405,7 +405,7 @@ const articles = [
         description: "<p>In this project, it was implemented the accounting consolidation in SAP BPC. The following statements were implemented:</p><ul><li>Balance sheet statement;</li><li>Profit and loss statement;</li><li>Cash flow statement.</li></ul>",
         client: "Real estate company (PDG)",
         role: "SAP BPC consultant",
-        keyword: ["Financial planning", "Real estate", "Accounting consolidation", "SAP BPC"]
+        keyword: ["Business intelligence", "Real estate", "Accounting consolidation", "SAP BPC"]
     },
     {
         id: "we-fc-sa",
@@ -415,7 +415,7 @@ const articles = [
         description: "<p>In this project, it was implemented the organizational budget planning in SAP BPC. The following planning processes were implemented:</p><ul><li>Macroeconomic assumptions;</li><li>Revenues;</li><li>Corporate and operational expenses;</li><li>Apportionment of costs and expenses;</li><li>Investments;</li><li>Profit and loss statement.</li></ul>",
         client: "Supermarket company (Pão de Açúcar)",
         role: "SAP BPC consultant",
-        keyword: ["Financial planning", "Supermarket", "Budget planning", "SAP BPC", "SAP BW"]
+        keyword: ["Business intelligence", "Supermarket", "Budget planning", "SAP BPC", "SAP BW"]
     },
     {
         id: "we-fc-sa",
@@ -425,7 +425,7 @@ const articles = [
         description: "<p>In this project, it was implemented the organizational budget planning in SAP BPS (the previous version of SAP BPC). The following planning processes were implemented:</p><ul><li>Revenue (sales, pricing, launch of new products, promotion, and taxes);</li><li>Direct costs (standard cost accounting, and overhead);</li><li>Indirect expenses (freight, human resources, and marketing);</li><li>Profit and loss statement.</li></ul>",
         client: "Personal care company (Natura)",
         role: "SAP BPS consultant",
-        keyword: ["Financial planning", "Personal care", "Budget planning", "SAP BPS", "SAP BW"]
+        keyword: ["Business intelligence", "Personal care", "Budget planning", "SAP BPS", "SAP BW"]
     },
     {
         id: "we-ba",
